@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"cypress": "9.2.0",
+		"react-router": "5.2.1"
+	}
+}
